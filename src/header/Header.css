@@ -1,0 +1,11 @@
+.container{
+    margin-right: 32px;
+    width: 400px;
+    background-color: rgb(205, 43, 226);
+}
+
+
+.avatar{
+    border-radius: 50px;
+    width: 64px;
+}
