@@ -1,8 +1,8 @@
 function about () {
     return (
         <>
-          <p>Eu sou desenvolvedora FullStack</p>
-          <p>Não tenho nem um curso, mais tenho várias habilidaes ex: cozinho cuido da minha irmã e da minha biza avó sou da midia na igreja que eu congrego e entre outra coisas, mais gosto muito aprender programação. </p>
+          <p> "Gosto de desenvolver coisas usando Python, MySQL e Android Studio. Curto aprender na prática e sempre tento deixar os projetos funcionando direitinho. Se você curte programação também, bora trocar ideia!"</p>
+          <p>Minhas Habilidades: Eu sei fazer codigos para fazer aplicativos, e tenho uma boa comunicação com as pessoas.</p>
         </>
     )
 }
