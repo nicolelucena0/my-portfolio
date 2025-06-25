@@ -6,8 +6,5 @@ function Stack () {
             <li>Mysql</li>
             <li>Android Studio</li>
         </ul>
-    )
-}
-
 
 export default Stack

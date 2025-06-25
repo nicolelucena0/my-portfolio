@@ -3,7 +3,7 @@ import "./Header.css"
 function Header() {
     return(
         <>
-        <img className="avatar"  
+        <img className="avatar"   
         src="https://avatars.githubusercontent.com/u/160791782?v=4" alt="" />
         <img src="" alt="" />
         
